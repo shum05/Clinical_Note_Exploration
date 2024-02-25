@@ -1,8 +1,9 @@
 # Clinical_Note_Exploration
 LLM-powered Semantic Information Retrieval in Clinical Notes with RAG using llama-index 
 ## Project Description
-This data science project involves using the llamaindex SDK, which is a software development kit, to interface with large language models (LLMs) and associated tools in retrieval augmented generation (RAG) systems. The goal is to perform vector search on clinical notes using open-source vector databases. Here's a brief explanation of the key components and concepts mentioned in the description:
-
+This data science project involves using the llamaindex SDK, which is a software development kit, to interface with large language models (LLMs) and associated tools in retrieval augmented generation (RAG) systems. The goal is to perform vector search on clinical notes using open-source vector databases. 
+This project aims to improve the efficiency and accuracy of information retrieval from clinical notes, potentially aiding medical professionals in diagnosis, treatment planning, and research.
+By using LLMs and vector search, the system can go beyond simple keyword matching and capture the nuances of language used in the medical domain.Here's a brief explanation of the key components and concepts mentioned in the description:
 ### llamaindex SDK: 
 This is a software development kit (SDK) that provides tools and functionalities for interfacing with large language models (LLMs) and retrieval augmented generation (RAG) systems. It likely offers APIs and utilities for tasks such as querying, generating text, and managing interactions with LLMs.
 
