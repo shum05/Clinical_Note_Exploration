@@ -21,3 +21,17 @@ These are textual records of patient encounters in healthcare settings, typicall
 
 ### Named Entity Recognition (NER): 
 NER is a task in natural language processing that involves identifying and classifying named entities (such as people, organizations, locations, dates, etc.) mentioned in text. In this project, NER is likely used to identify specific entities or segments within clinical notes that are relevant to the search query.
+
+## purpose of each of the listed libraries and packages:
+
+"llama-index:" This library, mentioned multiple times in the requirements file, is likely a Python SDK (Software Development Kit) that provides tools and utilities for interfacing with large language models (LLMs) and associated tools in retrieval augmented generation (RAG) systems. It may offer functionalities for querying, generating text, and managing interactions with LLMs.
+
+langchain: This library's purpose isn't explicitly clear from its name alone, but it might be related to handling language processing tasks, given its similarity to other language-related libraries listed. It may provide functionalities for language processing, text analysis, or natural language understanding.
+
+psycopg2-binary: This is a PostgreSQL database adapter for Python. It allows Python code to interact with PostgreSQL databases, enabling tasks such as connecting to databases, executing SQL queries, and fetching results.
+
+sqlalchemy==1.4.51: SQLAlchemy is a Python SQL toolkit and Object-Relational Mapping (ORM) library. It provides a set of high-level abstractions for interacting with SQL databases in Python, allowing developers to work with databases using Python objects and expressions rather than writing raw SQL queries.
+
+llmlingua: This library seems to be related to language processing or linguistics, given its name. It may provide functionalities for linguistic analysis, language modeling, or text processing tasks.
+
+unstructured: The purpose of this library isn't immediately apparent from its name alone. It might be related to handling unstructured data or performing tasks on data that doesn't have a predefined schema or format.
