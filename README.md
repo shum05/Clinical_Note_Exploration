@@ -24,7 +24,7 @@ NER is a task in natural language processing that involves identifying and class
 
 ## purpose of each of the listed libraries and packages:
 
-"llama-index:" This library, mentioned multiple times in the requirements file, is likely a Python SDK (Software Development Kit) that provides tools and utilities for interfacing with large language models (LLMs) and associated tools in retrieval augmented generation (RAG) systems. It may offer functionalities for querying, generating text, and managing interactions with LLMs.
+'llama-index:' This library, mentioned multiple times in the requirements file, is likely a Python SDK (Software Development Kit) that provides tools and utilities for interfacing with large language models (LLMs) and associated tools in retrieval augmented generation (RAG) systems. It may offer functionalities for querying, generating text, and managing interactions with LLMs.
 
 langchain: This library's purpose isn't explicitly clear from its name alone, but it might be related to handling language processing tasks, given its similarity to other language-related libraries listed. It may provide functionalities for language processing, text analysis, or natural language understanding.
 
